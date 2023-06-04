@@ -1,20 +1,19 @@
-q1 = "ここに回答を入力";
+q1 = "//";
 
-q2 = "ここに回答を入力";
+q2 = "var";
 
 q3 = `
 
-ここに回答（コード）を入力
-
+let country = "Japan"country = "America"
 `;
 
 q4 = `
 
-ここに回答（コード）を入力
+const japan = {id: 1,capital: "東京"}japan.lang = "日本語"
 
 `;
 
-q5 = [];
+q5 = [2, 5, 6];
 
 q6 = "ここに回答を入力";
 
